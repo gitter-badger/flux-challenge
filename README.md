@@ -1,5 +1,7 @@
 # Flux Challenge
 
+[![Join the chat at https://gitter.im/BerkeleyTrue/flux-challenge](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/BerkeleyTrue/flux-challenge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Database reader of Sith lords
 
 ### Background
